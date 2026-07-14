@@ -1,13 +1,28 @@
-# Olat Marketplace Intelligence — Final Portfolio Edition
+# Marketplace Intelligence Dashboard
 
-URL中心の仕入れ意思決定支援ポートフォリオです。
+A Python-based marketplace intelligence dashboard for sourcing decisions.
 
-## 起動
-```powershell
-py -m venv .venv
-.\.venv\Scripts\Activate.ps1
-pip install -r requirements.txt
-copy .env.example .env
-python -u app.py
-```
-Open http://127.0.0.1:5136
+![Dashboard Preview](docs/dashboard-preview.png)
+
+## Features
+
+- Analyze marketplace product URLs
+- Automatic product identification
+- Market benchmark estimation
+- Profit & ROI calculation
+- BUY / REVIEW / REJECT recommendation
+- Explainable decision logic
+- Optional eBay API integration
+
+## Tech Stack
+
+- Python
+- Flask
+- Requests
+- BeautifulSoup
+- REST API
+- HTML/CSS
+
+## Screenshot
+
+Portfolio demonstration of the dashboard interface.
