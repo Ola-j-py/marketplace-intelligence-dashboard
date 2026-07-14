@@ -2,7 +2,7 @@
 
 A Python-based marketplace intelligence dashboard for sourcing decisions.
 
-![Dashboard Preview](docs/dashboard-preview.png)
+![Dashboard](docs/dashboard.png)
 
 ## Features
 
